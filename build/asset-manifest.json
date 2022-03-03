@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ffc938d.css",
+    "main.js": "/static/js/main.e6ec2000.js",
+    "static/media/leo.jpg": "/static/media/leo.1ad209d358348cc13f12.jpg",
+    "static/media/mos.jpg": "/static/media/mos.55a2b62de1a72d89ab3f.jpg",
+    "static/media/firegram.png": "/static/media/firegram.b340747c38c4f424cad9.png",
+    "static/media/Grocery.png": "/static/media/Grocery.ca4b655f5bf60dfa6010.png",
+    "static/media/Covid-19.png": "/static/media/Covid-19.d26341c2ca750d301c49.png",
+    "static/media/land.png": "/static/media/land.e8814cc1dfc35eac1dcf.png",
+    "static/media/chat.png": "/static/media/chat.29cabc473432d50abf9b.png",
+    "static/media/cv.pdf": "/static/media/cv.e1002d6dc9d6494c0356.pdf",
+    "static/media/curd.png": "/static/media/curd.d160e2d0e738c0eebb4e.png",
+    "index.html": "/index.html",
+    "main.1ffc938d.css.map": "/static/css/main.1ffc938d.css.map",
+    "main.e6ec2000.js.map": "/static/js/main.e6ec2000.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ffc938d.css",
+    "static/js/main.e6ec2000.js"
+  ]
+}
