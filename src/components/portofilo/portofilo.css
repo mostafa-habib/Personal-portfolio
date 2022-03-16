@@ -17,11 +17,14 @@
 .portfolio_item_image{
     border-radius: 1.5rem;
     overflow: hidden;
+        height:100px;
+
     
 
 }
 .portfolio_item_image img {
-height:100px;
+        height:100%;
+
 }
 
 .portfolio_item h3 {
