@@ -6,6 +6,10 @@ import IMG3 from '../../images/Covid-19.png'
 import IMG4 from '../../images/firegram.png'
 import IMG5 from '../../images/land.png'
 import IMG6 from '../../images/curd.png'
+import IMG7 from '../../images/sass.png'
+import IMG8 from '../../images/weather.png'
+import IMG9 from '../../images/post.jpg'
+import IMG10 from '../../images/server.jpg'
 
 const data = [
   {
@@ -55,7 +59,38 @@ const data = [
     github:"https://github.com/mostafa-habib/Products-Managnents",
     demo:"https://fmcurd.netlify.app/",
 
-  }
+  },
+  {
+    id:7,
+    title:"Development Services",
+    image:IMG7,
+    github:"https://bit.ly/3w0HaQ5",
+    demo:"https://bit.ly/34Ew0oH",
+
+  },
+  {
+    id:8,
+    title:"Weather App",
+    image:IMG8,
+    github:"https://github.com/mostafa-habib/Weather-App",
+    demo:"https://fmweather.netlify.app/",
+
+  },
+  {
+    id:9,
+    title:"Posting App",
+    image:IMG9,
+    github:"https://github.com/mostafa-habib/Making-Post-and-publish-it-with-JS",
+
+  },
+  {
+    id:10,
+    title:"Server",
+    image:IMG10,
+    github:"https://github.com/mostafa-habib/AJAX-Using-JSON-Data-From-Server",
+
+  },
+  
 ]
 
 function Portofilo() {
@@ -75,7 +110,7 @@ function Portofilo() {
                 <h3>{title}</h3>
                 <div className='portfolio_item_cta'>
                   <a href={github} className='btn' target={'_blank'} rel="noreferrer">Github</a>
-                  <a href={demo} className='btn btn-primary' target={'_blank'} rel="noreferrer">Live Demo</a>
+                  {demo && <a href={demo} className='btn btn-primary' target={'_blank'} rel="noreferrer">Live Demo</a>}
                 </div>
               </article>
             )
