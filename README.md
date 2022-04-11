@@ -1,7 +1,7 @@
 ## [Amazon Clone](https://mostafahabib86.netlify.app/)
 
 - Views are on: https://mostafahabib86.netlify.app/ <br/>
-- 
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
