@@ -1,6 +1,7 @@
 import React from 'react'
 import './portofilo.css'
 import IMG1 from '../../images/chat.png'
+import IMG0 from '../../images/amazon.png'
 import IMG2 from '../../images/Grocery.png'
 import IMG3 from '../../images/Covid-19.png'
 import IMG4 from '../../images/firegram.png'
@@ -12,6 +13,14 @@ import IMG9 from '../../images/post.jpg'
 import IMG10 from '../../images/server.jpg'
 
 const data = [
+  {
+    id:0,
+    title:"Amazon Clone",
+    image:IMG1,
+    github:"https://github.com/mostafa-habib/Amazon-Clone",
+    demo:"https://amazon-cloonee.netlify.app/",
+
+  },
   {
     id:1,
     title:"Fullstack Realtime Chat App ",
