@@ -49,6 +49,7 @@ input , textarea {
 }
 .contact_option h5{
     overflow-wrap: break-word;
+    font-size:15px;
 }
 
 
