@@ -3,7 +3,7 @@ import './about.css'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
-import Img from '../../images/leo.jpg'
+import Img from '../../images/leo-min.jpg'
 
 function About() {
   return (
