@@ -16,7 +16,7 @@ import IMG11 from '../../images/moive.png'
 const data = [
   {
     id:0,
-    title:"Amazon Clone",
+    title:"Amazon Clonnnne",
     image:IMG0,
     github:"https://github.com/mostafa-habib/Amazon-Clone",
     demo:"https://amazon-cloonee.netlify.app/",
