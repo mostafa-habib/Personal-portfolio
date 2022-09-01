@@ -106,8 +106,15 @@ const data = [
     image:IMG10,
     github:"https://github.com/mostafa-habib/AJAX-Using-JSON-Data-From-Server",
 
-  },
+  }
+  {
+    id:11,
+    title:"Server",
+    image:"https://www.awesomescreenshot.com/image/31971894?key=a81595a4dee1c2176743d5e13c0ca9df",
+    github:"https://github.com/mostafa-habib/AI-News-App",
+    demo:"https://mostafa-habib.github.io/AI-News-App/",
 
+  },
   
 ]
 
