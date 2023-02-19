@@ -15,7 +15,7 @@ function Header() {
         <CTA />
         <HeaderSocial />
         <div className='me'>
-          <img src={ME} alt="" /> 
+//           <img src={ME} alt="" /> 
         </div>
         <a href='#contact' className='scroll_down'>Scroll Down</a>
         <a className='arrow' href='#contact'>
