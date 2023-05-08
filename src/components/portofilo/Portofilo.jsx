@@ -11,7 +11,7 @@ import IMG7 from '../../images/sass.png'
 import IMG8 from '../../images/weather.png'
 import IMG9 from '../../images/post.jpg'
 import IMG10 from '../../images/server.jpg'
-import IMG11 from '../../images/moive.png'
+// import IMG11 from '../../images/moive.png'
 
 const data = [
   {
@@ -70,13 +70,13 @@ const data = [
     demo:"https://fmcurd.netlify.app/",
 
   },
-    {
-    id:11,
-    title:"Movie APP",
-    image:IMG11,
-    github:"https://lnkd.in/diagX9RP",
-    demo:"https://lnkd.in/dWFPKhFw",
-  },
+  //   {
+  //   id:11,
+  //   title:"Movie APP",
+  //   image:IMG11,
+  //   github:"https://lnkd.in/diagX9RP",
+  //   demo:"https://lnkd.in/dWFPKhFw",
+  // },
   {
     id:7,
     title:"Development Services",
@@ -106,7 +106,7 @@ const data = [
     image:IMG10,
     github:"https://github.com/mostafa-habib/AJAX-Using-JSON-Data-From-Server",
 
-  }
+  },
   {
     id:11,
     title:"Server",

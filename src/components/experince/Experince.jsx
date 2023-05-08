@@ -65,7 +65,7 @@ function Experince() {
             <article className='experience_details'>
               <BsPatchCheckFill className='experience_details_icon'/>
               <div>
-                <h4>Styled Components</h4>
+                <h4>Material-UI</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
@@ -75,21 +75,7 @@ function Experince() {
         <div className='experience_backend'>
           <h3>Backend Development</h3>
           <div className='experience_content'>
-            <article className='experience_details'>
-              <BsPatchCheckFill className='experience_details_icon'/>
-              <div>
-                <h4>PHP</h4>
-                <small className='text-light'>Beginner</small>
-              </div>
-            </article>
-            <article className='experience_details'>
-              <BsPatchCheckFill className='experience_details_icon'/>
-              <div>
-                <h4>MySql</h4>
-                <small className='text-light'>Beginner</small>
-              </div>
-            </article>
-            <article className='experience_details'>
+          <article className='experience_details'>
               <BsPatchCheckFill className='experience_details_icon'/>
               <div>
                 <h4>Node Js</h4>
@@ -103,6 +89,21 @@ function Experince() {
                 <small className='text-light'>Beginner</small>
               </div>
             </article>
+            <article className='experience_details'>
+              <BsPatchCheckFill className='experience_details_icon'/>
+              <div>
+                <h4>PHP</h4>
+                <small className='text-light'>Beginner</small>
+              </div>
+            </article>
+            <article className='experience_details'>
+              <BsPatchCheckFill className='experience_details_icon'/>
+              <div>
+                <h4>SQL</h4>
+                <small className='text-light'>Beginner</small>
+              </div>
+            </article>
+            
 
           </div>
 
