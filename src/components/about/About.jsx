@@ -37,9 +37,9 @@ function About() {
               <small>35+ Completed</small>
             </article>
           </div>
-          <p>I want to take a challenging role as Frontend Web Developer 
-            in a company where I could utilize my skills in Front-End Web Development
-            , Software, and use these skills in providing quality service to the company.</p>
+          <p>Meticulous frontend software engineer with 1+ year experience passionate about web development who loves Translating designs into high-quality code,
+             Proficient with Javascript and its new specifications, React.js, and nextJs ecosystem, HTML, CSS, and Responsive web development, 
+            and I have Good problem-solving skills with practice in competitive programming contests.</p>
             <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
 

@@ -27,7 +27,9 @@ html{
     scroll-behavior: smooth;
 }
 ::-webkit-scrollbar{
-    display: none;
+    /* display: none; */
+    /* background-color: #2c2c6c; */
+    /* color: #fff; */
 }
 body{
     font-family: 'Poppins', sans-serif;

@@ -11,7 +11,8 @@ import IMG7 from '../../images/sass.png'
 import IMG8 from '../../images/weather.png'
 import IMG9 from '../../images/post.jpg'
 import IMG10 from '../../images/server.jpg'
-// import IMG11 from '../../images/moive.png'
+import IMG11 from '../../images/movieAPP.png'
+import IMG12 from '../../images/voiceAI.png'
 
 const data = [
   {
@@ -70,13 +71,6 @@ const data = [
     demo:"https://fmcurd.netlify.app/",
 
   },
-  //   {
-  //   id:11,
-  //   title:"Movie APP",
-  //   image:IMG11,
-  //   github:"https://lnkd.in/diagX9RP",
-  //   demo:"https://lnkd.in/dWFPKhFw",
-  // },
   {
     id:7,
     title:"Development Services",
@@ -93,24 +87,32 @@ const data = [
     demo:"https://fmweather.netlify.app/",
 
   },
-  {
-    id:9,
-    title:"Posting App",
-    image:IMG9,
-    github:"https://github.com/mostafa-habib/Making-Post-and-publish-it-with-JS",
+  // {
+  //   id:9,
+  //   title:"Posting App",
+  //   image:IMG9,
+  //   github:"https://github.com/mostafa-habib/Making-Post-and-publish-it-with-JS",
 
-  },
-  {
-    id:10,
-    title:"Server",
-    image:IMG10,
-    github:"https://github.com/mostafa-habib/AJAX-Using-JSON-Data-From-Server",
+  // },
+  // {
+  //   id:10,
+  //   title:"Server",
+  //   image:IMG10,
+  //   github:"https://github.com/mostafa-habib/AJAX-Using-JSON-Data-From-Server",
 
-  },
-  {
+  // },
+  
+      {
     id:11,
-    title:"Server",
-    image:"https://www.awesomescreenshot.com/image/31971894?key=a81595a4dee1c2176743d5e13c0ca9df",
+    title:"Movie APP",
+    image:IMG11,
+    github:"https://lnkd.in/diagX9RP",
+    demo:"https://lnkd.in/dWFPKhFw",
+  },
+  {
+    id:12,
+    title:"AI News Voice",
+    image:IMG12,
     github:"https://github.com/mostafa-habib/AI-News-App",
     demo:"https://mostafa-habib.github.io/AI-News-App/",
 

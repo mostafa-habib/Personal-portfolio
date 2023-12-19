@@ -37,7 +37,7 @@ function Contact() {
             <BsWhatsapp className='contact_option_icon' />
             <h4>WhatsApp</h4>
             <h5>01207300696</h5>
-            <a href='https://api.whatsapp.com/send?phone=+2001207300696' target="_blank" rel="noreferrer">Send a message</a>
+            <a href='https://api.whatsapp.com/send?phone=+2001207300696' target="_blank" rel="noreferrer" id="whatsapp-link">Send a message</a>
           </article>
           
         </div>

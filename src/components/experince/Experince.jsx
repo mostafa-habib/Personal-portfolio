@@ -65,7 +65,7 @@ function Experince() {
             <article className='experience_details'>
               <BsPatchCheckFill className='experience_details_icon'/>
               <div>
-                <h4>Material-UI</h4>
+                <h4>Next JS</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
